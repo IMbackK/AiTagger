@@ -29,7 +29,7 @@ The core of this application is a Transformer model based on GPT2 architecture.
 4. `bash get-models.sh`
 	* this will download the models and place them in the ./net directory
 
-### Usage
+## Usage
 
 1. Perpare a directory with the music files you would like to tag
 2. run aimusictagger with your desired paramters on the directory
